@@ -1,0 +1,24 @@
+[
+   {
+      "name": "Alif Fathur",
+      "country": "ID",
+      "github_username": "herobuxx",
+      "telegram_username": "herobuxx",
+      "devices": [
+         {
+            "codename": "chime"
+         }
+      ],
+   },
+   {
+      "name": "Pulkit Agarwal",
+      "country": "IN",
+      "github_username": "pulkit077",
+      "telegram_username": "pulkit077",
+      "devices": [
+         {
+            "codename": "sweet"
+         }
+      ],
+   }
+]
