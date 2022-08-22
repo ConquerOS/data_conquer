@@ -20,5 +20,16 @@
             "codename": "sweet"
          }
       ],
-   }
+   },
+   {
+      "name": "Firmansyah",
+      "country": "ID",
+      "github_username": "Chuck439",
+      "telegram_username": "mikaziku",
+      "devices": [
+         {
+            "codename": "mi439"
+         }
+      ],
+    }
 ]
