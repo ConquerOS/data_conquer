@@ -32,4 +32,15 @@
          }
       ],
     }
+    {
+      "name": "Hanif Ardhani",
+      "country": "ID",
+      "github_username": "hanifardhani",
+      "telegram_username": "hanifardhani",
+      "devices": [
+         {
+            "codename": "platina"
+         }
+      ],
+    }
 ]
