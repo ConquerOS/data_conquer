@@ -43,4 +43,15 @@
          }
       ],
     }
+    {
+      "name": "Rizak Kamal",
+      "country": "ID",
+      "github_username": "rijak999",
+      "telegram_username": "Pxztt",
+      "devices": [
+         {
+            "codename": "surya"
+         }
+      ],
+    }
 ]
